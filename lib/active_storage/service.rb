@@ -7,6 +7,7 @@ require_relative "log_subscriber"
 # * +Disk+, to manage attachments saved directly on the hard drive.
 # * +GCS+, to manage attachments through Google Cloud Storage.
 # * +S3+, to manage attachments through Amazon S3.
+# * +Spaces+, to manage attachments through DigitalOcean Spaces.
 # * +Mirror+, to be able to use several services to manage attachments.
 #
 # Inside a Rails application, you can set-up your services through the

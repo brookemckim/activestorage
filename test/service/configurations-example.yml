@@ -6,6 +6,13 @@ s3:
   region:
   bucket:
 
+spaces:
+  service: Spaces
+  access_key_id:
+  secret_access_key:
+  region:
+  bucket:
+
 gcs:
   service: GCS
   keyfile: {
